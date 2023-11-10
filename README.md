@@ -1,2 +1,1 @@
-# duosmium-event-scoresheets
-Event Scoresheets
+# Science Olympiad Event Scoresheets
